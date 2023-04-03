@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Licenta/static/css/main.e6c13ad2.css",
+    "main.js": "/Licenta/static/js/main.28d5e013.js",
+    "static/js/787.5b649286.chunk.js": "/Licenta/static/js/787.5b649286.chunk.js",
+    "index.html": "/Licenta/index.html",
+    "main.e6c13ad2.css.map": "/Licenta/static/css/main.e6c13ad2.css.map",
+    "main.28d5e013.js.map": "/Licenta/static/js/main.28d5e013.js.map",
+    "787.5b649286.chunk.js.map": "/Licenta/static/js/787.5b649286.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.28d5e013.js"
+  ]
+}
